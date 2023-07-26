@@ -1,5 +1,7 @@
 # Nexus Mod Collection Downloader
 
+`mocodo` just stands for Mod Collection Downloader.
+
 A very rough bunch of scripts to download entire mod collections from [Nexus Mods](https://next.nexusmods.com/stardewvalley). Does not require Vortex paid membership.
 
 If anyone is actually interested in using this then maybe I will write better code/comments, but for now it's just me so it's a bit of a mess.
