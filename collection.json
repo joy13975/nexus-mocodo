@@ -1,0 +1,2098 @@
+{
+  "info": {
+    "author": "JennaJuffuffles",
+    "authorUrl": "",
+    "name": "Stardew Valley VERY Expanded",
+    "description": "",
+    "installInstructions": "🚨 IMPORTANT! DO THIS BEFORE INSTALLING!\n🌀 Inside Vortex, open Settings on the left bar and navigate to the Mods tab.\n⛔ At the bottom of the Mods tab, disable \"use recommentations from the mod manifests\".\n☝ Not doing this will prevent proper installation.\n\n**Experiencing an issue with Vortex?**\nThe most common issue is that a mod did not install correctly. This issue can be solved by filtering \"Enabled\" mods inside Vortex, selecting them all, and then clicking Reinstall in the bottom menu (do not right-click!)\n \nOther common issues occur because:\n- Mods are installed more than once (please delete all mods in folder and reinstall from collection)\n- Mods from another pack have not been uninstalled properly\n \nYou can find [Vortex Support on Discord here](http://discord.gg/nexusmods). Office hours are 9-5 GMT Mon-Thurs.\nYou can find the [Vortex Support Wiki here](http://wiki.nexusmods.com/index.php/Category:Vortex) and their [Stardew Setup Guide here.](https://wiki.nexusmods.com/index.php/Modding_Stardew_Valley_with_Vortex)\n \n**Experiencing an issue with the Stardew Valley VERY Expanded Collection?**\nThe game client will lag and possibly crash when loading or creating a new character. Please be patient and do not use your keyboard or mouse until the game has fully loaded.\n\nIf you experience further issues, you can share a link to your [SMAPI log using this website](https://smapi.io/log) on the forum for this collection.\n \nStill need assistance? Consider joining [my streamer Discord server](http://discord.gg/de2NrHXuty) and hopping in the Stardew Valley channel!\n \nI am not Nexus or Vortex staff.\n",
+    "domainName": "stardewvalley",
+    "gameVersions": [
+      "1.5.6.22018"
+    ]
+  },
+  "mods": [
+    {
+      "name": "[CP] Yagisan - Custom NPCs for NPC Map Locations",
+      "version": "1.1.23",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 8174,
+        "fileId": 70820,
+        "md5": "15dc8d606c0424a5dd4dcc331cf67b18",
+        "fileSize": 8291,
+        "logicalFilename": "Yagisan - Custom NPCs for NPC Map Locations",
+        "updatePolicy": "prefer",
+        "tag": "IPlIkOBiv"
+      },
+      "author": "Yagisan",
+      "details": {
+        "category": "Miscellaneous",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "AntiSocialNPCs",
+      "version": "1.0.6",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 5371,
+        "fileId": 56774,
+        "md5": "2d5c926e80932d7f429c07073d6f64f4",
+        "fileSize": 10238,
+        "logicalFilename": "AntiSocialNPCs",
+        "updatePolicy": "prefer",
+        "tag": "RwryX5KYWf"
+      },
+      "author": "Super Aardvark",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Custom NPC Exclusions v1.3.0",
+      "version": "1.4.0",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 7089,
+        "fileId": 50477,
+        "md5": "0d1d391db3bacd1ebb8d663d7ac0912d",
+        "fileSize": 26109,
+        "logicalFilename": "Custom NPC Exclusions v1.4.0",
+        "updatePolicy": "prefer",
+        "tag": "LSIKevbr3Z"
+      },
+      "author": "Esca-MMC",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Custom NPC Fixes 1.2.3",
+      "version": "1.2.6",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 3849,
+        "fileId": 62124,
+        "md5": "a6aaebd5f5552079221c05820b8d0e65",
+        "fileSize": 89698,
+        "logicalFilename": "Custom NPC Fixes 1.2.6",
+        "updatePolicy": "prefer",
+        "tag": "rLl3hvSGQD"
+      },
+      "author": "spacechase0",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Expanded Preconditions Utility",
+      "version": "1.0.1",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 6529,
+        "fileId": 33289,
+        "md5": "f3b353732eefee1075736b3243f0b939",
+        "fileSize": 12326,
+        "logicalFilename": "Expanded Preconditions Utility",
+        "updatePolicy": "prefer",
+        "tag": "cqgzuPz5es"
+      },
+      "author": "Cherry",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Farm Type Manager v1.16.0",
+      "version": "1.16.0",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 3231,
+        "fileId": 53023,
+        "md5": "df5e8d70dd1ee29d0746279fc63ff3a7",
+        "fileSize": 209322,
+        "logicalFilename": "Farm Type Manager v1.16.0",
+        "updatePolicy": "prefer",
+        "tag": "qK-f5QGhGy"
+      },
+      "author": "Esca-MMC",
+      "details": {
+        "category": "Gameplay Mechanics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "SAAT - Audio API and Toolkit - SAAT 1.1.2",
+      "version": "1.1.2",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 10747,
+        "fileId": 50147,
+        "md5": "274c214042164d8a19771d05708db512",
+        "fileSize": 26747,
+        "logicalFilename": "SAAT 1.1.2",
+        "updatePolicy": "prefer",
+        "tag": "lp1dx79-8A"
+      },
+      "author": "ZeroMeters",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Shop Tile Framework",
+      "version": "1.0.9",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 5005,
+        "fileId": 33312,
+        "md5": "699f337d109d44f8b627907a456f9c87",
+        "fileSize": 63314,
+        "logicalFilename": "Shop Tile Framework",
+        "updatePolicy": "prefer",
+        "tag": "gXSFDeNWjF"
+      },
+      "author": "Cherry",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "MailFrameworkMod-v1.15.0",
+      "version": "1.15.0",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 1536,
+        "fileId": 66339,
+        "md5": "7ce615edae2a323b04809a722263fc9b",
+        "fileSize": 39478,
+        "logicalFilename": "MailFrameworkMod-v1.15.0",
+        "updatePolicy": "prefer",
+        "tag": "IRZ-YeRiiw"
+      },
+      "author": "Digus",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Custom Companions",
+      "version": "3.0.0",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 8626,
+        "fileId": 66993,
+        "md5": "604638b082b4f7c6fd1ccd8e0641f302",
+        "fileSize": 130807,
+        "logicalFilename": "Custom Companions 3.0.0",
+        "updatePolicy": "prefer",
+        "tag": "rCjfV9sQfR"
+      },
+      "author": "PeacefulEnd",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Quest Framework 1.4.2",
+      "version": "1.4.3",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 6414,
+        "fileId": 66672,
+        "md5": "c678e6101b75ceddcfbaa9de1fc358e8",
+        "fileSize": 257329,
+        "logicalFilename": "Quest Framework 1.4.3",
+        "updatePolicy": "prefer",
+        "tag": "wwN33LiHB4"
+      },
+      "author": "PurrplingCat",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Ridgeside Village",
+      "version": "2.4.1",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 7286,
+        "fileId": 70689,
+        "md5": "95aaa8a27073fe6508ee81d2197cc933",
+        "fileSize": 123340073,
+        "logicalFilename": "Ridgeside Village",
+        "updatePolicy": "prefer",
+        "tag": "atTJ_1UmIe"
+      },
+      "author": "Rafseazz and mamaesh - Assisted by RSV Council",
+      "details": {
+        "category": "Expansions",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Always Raining in the Valley",
+      "version": "1.0.3",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 9999,
+        "fileId": 47711,
+        "md5": "b8ee00a84f6da172d32bc0cf3b38b14c",
+        "fileSize": 61339450,
+        "logicalFilename": "Always Raining in the Valley",
+        "updatePolicy": "prefer",
+        "tag": "NMEBeCfZd5"
+      },
+      "author": "Himetarts",
+      "details": {
+        "category": "New Characters",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Content Patcher Animations 1.2.4",
+      "version": "1.2.4",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 3853,
+        "fileId": 62104,
+        "md5": "938f635bd383cd2f834f6aeae6f1cb77",
+        "fileSize": 114307,
+        "logicalFilename": "Content Patcher Animations 1.2.4",
+        "updatePolicy": "prefer",
+        "tag": "xwBXV4VKYe"
+      },
+      "author": "spacechase0",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Custom Chores",
+      "version": "1.2.1",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 5315,
+        "fileId": 23888,
+        "md5": "04bf10a1467c115c48c9da9f81797d24",
+        "fileSize": 43362,
+        "logicalFilename": "Custom Chores",
+        "updatePolicy": "prefer",
+        "tag": "5XIla4zILL"
+      },
+      "author": "LeFauxMatt",
+      "details": {
+        "category": "Gameplay Mechanics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Custom Fixed Dialogue",
+      "version": "2.3.2",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 6358,
+        "fileId": 63397,
+        "md5": "7f3d931d0c7643d4b3a3144264442733",
+        "fileSize": 15439,
+        "logicalFilename": "Custom Fixed Dialogue",
+        "updatePolicy": "prefer",
+        "tag": "u-_WI23F7i"
+      },
+      "author": "aedenthorn",
+      "details": {
+        "category": "Dialogue",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Custom Music",
+      "version": "1.9.0",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 3043,
+        "fileId": 50410,
+        "md5": "e9f0168f52b656346adadf56a4e80940",
+        "fileSize": 171630,
+        "logicalFilename": "Custom Music",
+        "updatePolicy": "prefer",
+        "tag": "xz_dzm2gaYK"
+      },
+      "author": "Platonymous",
+      "details": {
+        "category": "Audio",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "FlowerDanceFix1.2.1",
+      "version": "1.2.1",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 8535,
+        "fileId": 42741,
+        "md5": "b366104e39091e51c037d1ee9e266af8",
+        "fileSize": 21782,
+        "logicalFilename": "FlowerDanceFix1.2.1",
+        "updatePolicy": "prefer",
+        "tag": "tYVc6iM7wc6"
+      },
+      "author": "elfuun",
+      "details": {
+        "category": "Gameplay Mechanics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Friends Forever 1.2.3",
+      "version": "1.2.3",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 1738,
+        "fileId": 17079,
+        "md5": "15ba44cb35b70e7eb75260f8449dac8b",
+        "fileSize": 5121,
+        "logicalFilename": "Friends Forever 1.2.3",
+        "updatePolicy": "prefer",
+        "tag": "4gArTohWPY-"
+      },
+      "author": "Isaac S",
+      "details": {
+        "category": "Gameplay Mechanics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Hats Won't Mess Up Hair",
+      "version": "1.4.0",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 2847,
+        "fileId": 33359,
+        "md5": "a3584380ac93283efcbfde6e99567fce",
+        "fileSize": 1572,
+        "logicalFilename": "Hats Won't Mess Up Hair",
+        "updatePolicy": "prefer",
+        "tag": "PrRzaB7u5Hm"
+      },
+      "author": "misatse1019",
+      "details": {
+        "category": "Clothing",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Helpful Spouses",
+      "version": "1.2.1",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 5175,
+        "fileId": 23889,
+        "md5": "33b03cfd9e0a139925863d879e9bd602",
+        "fileSize": 15463,
+        "logicalFilename": "Helpful Spouses",
+        "updatePolicy": "prefer",
+        "tag": "Su0i3_vhHmt"
+      },
+      "author": "LeFauxMatt",
+      "details": {
+        "category": "Gameplay Mechanics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Lumisteria Short Flowery Grass",
+      "version": "1.0.0",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 8676,
+        "fileId": 41031,
+        "md5": "181721066b353f9f3c1d6ef39a94539f",
+        "fileSize": 77044,
+        "logicalFilename": "Lumisteria Short Flowery Grass",
+        "updatePolicy": "prefer",
+        "tag": "k0gsfW5YEZW"
+      },
+      "author": "Lumisteria",
+      "details": {
+        "category": "Visuals and Graphics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Lumisteria Tilesheets - Indoor",
+      "version": "1.3.0",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 9599,
+        "fileId": 53135,
+        "md5": "fd8b554162aeb10a2073dea438231e71",
+        "fileSize": 1517572,
+        "logicalFilename": "Lumisteria Tilesheets - Indoor",
+        "updatePolicy": "prefer",
+        "tag": "n_1LgCeyeH2"
+      },
+      "author": "Lumisteria",
+      "details": {
+        "category": "Visuals and Graphics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Lunna - Astray in StardewValley",
+      "version": "3.4.10",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 6626,
+        "fileId": 64590,
+        "md5": "f83270160dc4d7e400373ef8f718fdc9",
+        "fileSize": 9065209,
+        "logicalFilename": "Lunna - Astray in Stardew Valley",
+        "updatePolicy": "prefer",
+        "tag": "7otPCCZqypm"
+      },
+      "author": "Rafseazz",
+      "details": {
+        "category": "Expansions",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "More Grass",
+      "version": "1.1.7",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 5398,
+        "fileId": 49608,
+        "md5": "d3e1a00043e51f253e308fe5386bb36b",
+        "fileSize": 27017,
+        "logicalFilename": "More Grass",
+        "updatePolicy": "prefer",
+        "tag": "2JfGWXkaQid"
+      },
+      "author": "Sonozuki",
+      "details": {
+        "category": "Visuals and Graphics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Part of The Community",
+      "version": "1.1.6-4",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 923,
+        "fileId": 48109,
+        "md5": "7b32cc29df94c837024e206f6e645705",
+        "fileSize": 22260,
+        "logicalFilename": "Part of The Community",
+        "updatePolicy": "prefer",
+        "tag": "2-7HIVWsrxW"
+      },
+      "author": "Space Baby",
+      "details": {
+        "category": "Gameplay Mechanics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Stardew Valley Expanded - Immersive Farm 2 Remastered",
+      "version": "1.14.19",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 3753,
+        "fileId": 70765,
+        "md5": "0c8efdc27cba66c6e5e8b9c28a346716",
+        "fileSize": 4001022,
+        "logicalFilename": "Immersive Farm 2 Remastered",
+        "updatePolicy": "prefer",
+        "tag": "nfExiZEAn-c"
+      },
+      "author": "FlashShifter",
+      "details": {
+        "category": "Expansions",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Winter Grass",
+      "version": "2.0.3",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 1601,
+        "fileId": 33319,
+        "md5": "6eef4a1e076f0ea6743f683a32281d2b",
+        "fileSize": 11243,
+        "logicalFilename": "Winter Grass",
+        "updatePolicy": "prefer",
+        "tag": "OlOiKBpVAoJ"
+      },
+      "author": "Cat",
+      "details": {
+        "category": "Gameplay Mechanics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Custom Gift Dialogue Utillity",
+      "version": "1.3.1",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 7304,
+        "fileId": 70624,
+        "md5": "53ea03d444f562fef3abdfbde2742c5a",
+        "fileSize": 103083,
+        "logicalFilename": "Custom Gift Dialogue Utility 1.3.1",
+        "updatePolicy": "prefer",
+        "tag": "a-DsAmw_7fY"
+      },
+      "author": "PurrplingCat and Lemurkat",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "DaisyNiko's Tilesheets",
+      "version": "1.9.1",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 4736,
+        "fileId": 67031,
+        "md5": "832ab0f10ea0990ce124851b51abb7fb",
+        "fileSize": 12648789,
+        "logicalFilename": "DaisyNiko's Tilesheets",
+        "updatePolicy": "prefer",
+        "tag": "8IRCzyGB4Vv"
+      },
+      "author": "DaisyNiko",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Event Limiter",
+      "version": "1.2.1",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 10735,
+        "fileId": 66572,
+        "md5": "388bed53be961bf36770bc07124f2e2c",
+        "fileSize": 14500,
+        "logicalFilename": "Event Limiter",
+        "updatePolicy": "prefer",
+        "tag": "Yc3Z8-WmBek"
+      },
+      "author": "TheMightyAmondee",
+      "details": {
+        "category": "Gameplay Mechanics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Seasonal Cute Characters - SVE",
+      "version": "2.3.4",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 5969,
+        "fileId": 68318,
+        "md5": "1fa14926b49fd35bf4773ec4d10dc0b8",
+        "fileSize": 17325747,
+        "logicalFilename": "Seasonal Cute Characters - SVE",
+        "updatePolicy": "prefer",
+        "tag": "qTiJxWSChqy"
+      },
+      "author": "Poltergeister",
+      "details": {
+        "category": "Characters",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Farmer Helper",
+      "version": "0.4.2",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 10179,
+        "fileId": 66909,
+        "md5": "5a0ed1949f18c1d0ae79d90518d87692",
+        "fileSize": 31164,
+        "logicalFilename": "farmer Helper",
+        "updatePolicy": "prefer",
+        "tag": "oeTSGvti02t"
+      },
+      "author": "aedenthorn",
+      "details": {
+        "category": "Gameplay Mechanics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "AtraCore",
+      "version": "0.2.3",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 12932,
+        "fileId": 69559,
+        "md5": "0aaf03ed2b97ee4df84a604119c5e961",
+        "fileSize": 541728,
+        "logicalFilename": "AtraCore",
+        "updatePolicy": "prefer",
+        "tag": "6zmz6Yd46tq"
+      },
+      "author": "atravita",
+      "details": {
+        "category": "Miscellaneous",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Extra Map Layers",
+      "version": "0.3.7",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 9633,
+        "fileId": 69902,
+        "md5": "a27b13e4bf0ca67d310493d466b068ac",
+        "fileSize": 9441,
+        "logicalFilename": "Extra Map Layers",
+        "updatePolicy": "prefer",
+        "tag": "m7vSrUCMuyn"
+      },
+      "author": "aedenthorn",
+      "details": {
+        "category": "Maps",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "To-Dew",
+      "version": "1.13.0",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 7409,
+        "fileId": 71014,
+        "md5": "dc5a423faf39fad95e9811ffeedd1d6e",
+        "fileSize": 68731,
+        "logicalFilename": "ToDew 1.13.0",
+        "updatePolicy": "prefer",
+        "tag": "_8JK0qOAXqJ"
+      },
+      "author": "Jamie Taylor",
+      "details": {
+        "category": "User Interface",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Content Patcher",
+      "version": "1.29.3",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 1915,
+        "fileId": 72726,
+        "md5": "762c3694e332f94ea1ba9705bc1dac32",
+        "fileSize": 279171,
+        "logicalFilename": "Content Patcher 1.29.3",
+        "updatePolicy": "prefer",
+        "tag": "CCOnXcCpe2Z"
+      },
+      "author": "Pathoschild",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "NPC Map Locations 2.11.0",
+      "version": "2.11.5",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 239,
+        "fileId": 72843,
+        "md5": "863a8af0206267128569c70c75ca296e",
+        "fileSize": 433203,
+        "logicalFilename": "NPC Map Locations 2.11.5",
+        "updatePolicy": "prefer",
+        "tag": "hjA2ZJIwWTn"
+      },
+      "author": "Bouhm and Pathoschild",
+      "details": {
+        "category": "User Interface",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Lumisteria Tilesheets - Outdoor",
+      "version": "1.3.0",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 10448,
+        "fileId": 72842,
+        "md5": "9202594ae7d2b06b48f6393dc8d1f4c0",
+        "fileSize": 1090950,
+        "logicalFilename": "Lumisteria Tilesheets - Outdoor",
+        "updatePolicy": "prefer",
+        "tag": "tPYVZ69yLcF"
+      },
+      "author": "Lumisteria",
+      "details": {
+        "category": "Visuals and Graphics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "MinecartPatcher",
+      "version": "1.3.2",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 11424,
+        "fileId": 71275,
+        "md5": "6f0448e8bd33cd619511847b2d74bb8f",
+        "fileSize": 17191,
+        "logicalFilename": "MinecartPatcher",
+        "updatePolicy": "prefer",
+        "tag": "LOKYtrWugcJ"
+      },
+      "author": "mod kitchen",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "SMAPI - Stardew Modding API - SMAPI 3.18.3",
+      "version": "3.18.4",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 2400,
+        "fileId": 72625,
+        "md5": "94e9db5b3a09501d3fcceefee39b861d",
+        "fileSize": 41844881,
+        "logicalFilename": "SMAPI 3.18.4",
+        "updatePolicy": "prefer",
+        "tag": "z4uwQUQfDDi"
+      },
+      "author": "Pathoschild",
+      "details": {
+        "category": "Modding Tools",
+        "type": "SMAPI"
+      },
+      "phase": 0
+    },
+    {
+      "name": "MissCoriel's Unique Courtship Response CORE",
+      "version": "2.1.4",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 8284,
+        "fileId": 72512,
+        "md5": "bf4deb115e3da85ed834c2e8d5c46a7e",
+        "fileSize": 29635,
+        "logicalFilename": "MissCoriel's Unique Courtship Response CORE",
+        "updatePolicy": "prefer",
+        "tag": "XOnMj7V_71d"
+      },
+      "author": "MissCoriel",
+      "details": {
+        "category": "Dialogue",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "East Scarp (SMAPI)",
+      "version": "2.3.6",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 5787,
+        "fileId": 71296,
+        "md5": "9dfbfb2c937b53ccfe96a79cd5817ce2",
+        "fileSize": 12989150,
+        "logicalFilename": "East Scarp",
+        "updatePolicy": "prefer",
+        "tag": "N4TDHGsXyhJ"
+      },
+      "author": "LemurKat and Kdau",
+      "details": {
+        "category": "Expansions",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "MultiSave",
+      "version": "0.1.8",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 15402,
+        "fileId": 71308,
+        "md5": "2457ce170a9370343b1b1030884b6ed1",
+        "fileSize": 24544,
+        "logicalFilename": "Multi Save",
+        "updatePolicy": "prefer",
+        "tag": "gXqnnfi98Kz"
+      },
+      "author": "aedenthorn",
+      "details": {
+        "category": "Gameplay Mechanics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Json Assets",
+      "version": "1.10.14",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 1720,
+        "fileId": 73381,
+        "md5": "a68970fee3b958ae912abffe48ce6145",
+        "fileSize": 277637,
+        "logicalFilename": "Json Assets 1.10.14",
+        "updatePolicy": "prefer",
+        "tag": "nsI9Wl1LzVP"
+      },
+      "author": "spacechase0",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Generic Mod Config Menu",
+      "version": "1.11.2",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 5098,
+        "fileId": 73377,
+        "md5": "d111f8e9430848cb41f63882b516ddb8",
+        "fileSize": 162536,
+        "logicalFilename": "Generic Mod Config Menu 1.11.2",
+        "updatePolicy": "prefer",
+        "tag": "TiD5-WM8FIR"
+      },
+      "author": "spacechase0",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "SpaceCore",
+      "version": "1.13.3",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 1348,
+        "fileId": 73355,
+        "md5": "55253f9ade997beaadeae3643d3273a2",
+        "fileSize": 250615,
+        "logicalFilename": "SpaceCore 1.13.3",
+        "updatePolicy": "prefer",
+        "tag": "jTIFWg2BTux"
+      },
+      "author": "spacechase0",
+      "details": {
+        "category": "Modding Tools",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Stardew Valley Expanded",
+      "version": "1.14.24",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 3753,
+        "fileId": 73020,
+        "md5": "a397328514f3e3e19f38eb02ab759bb2",
+        "fileSize": 377471251,
+        "logicalFilename": "-Stardew Valley Expanded-",
+        "updatePolicy": "prefer",
+        "tag": "XJZbbalj3El"
+      },
+      "author": "FlashShifter",
+      "details": {
+        "category": "Expansions",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Chests Anywhere",
+      "version": "1.22.7",
+      "optional": false,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 518,
+        "fileId": 72683,
+        "md5": "17c675f37f54331b530a830dc2187bf2",
+        "fileSize": 139808,
+        "logicalFilename": "Chests Anywhere 1.22.7",
+        "updatePolicy": "prefer",
+        "tag": "SK1genjyvON"
+      },
+      "author": "Pathoschild",
+      "details": {
+        "category": "User Interface",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "(CP)GoToWorkClint",
+      "version": "1.1",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 4010,
+        "fileId": 17009,
+        "md5": "1222ad71b462b5aaf52ad4b809b2a2e5",
+        "fileSize": 1148,
+        "logicalFilename": "(CP)GoToWorkClint",
+        "updatePolicy": "prefer",
+        "tag": "rHa5-7Gc7zD"
+      },
+      "author": "Lavender",
+      "details": {
+        "category": "Characters",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Alternate Portraits for Lunna-7123-1-0-1605155745.rar",
+      "version": "1.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 7123,
+        "fileId": 32479,
+        "md5": "b860cad16c36599ea87f58892eb8a6e0",
+        "fileSize": 699857,
+        "logicalFilename": "Alternate Portraits for Lunna",
+        "updatePolicy": "prefer",
+        "tag": "3-BSle261Xt"
+      },
+      "author": "deleted96844928",
+      "details": {
+        "category": "Portraits",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Animated Clothes",
+      "version": "1.2.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 6117,
+        "fileId": 27686,
+        "md5": "05c320747b7d955f06559b027c377e59",
+        "fileSize": 59681,
+        "logicalFilename": "Animated Clothes",
+        "updatePolicy": "prefer",
+        "tag": "jo67bf1cmD7"
+      },
+      "author": "Gervig91",
+      "details": {
+        "category": "Clothing",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Animated East Scarp Fish",
+      "version": "1.1.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 10913,
+        "fileId": 63895,
+        "md5": "fb63b55df38bdd8aedd7db7fc5f495ec",
+        "fileSize": 12380,
+        "logicalFilename": "Animated East Scarp Fish",
+        "updatePolicy": "prefer",
+        "tag": "NHaX81XSemY"
+      },
+      "author": "Gervig91",
+      "details": {
+        "category": "Fishing",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Animated Fish",
+      "version": "1.2.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 5735,
+        "fileId": 33322,
+        "md5": "8ab3241340cc88942236ad0de39e1b81",
+        "fileSize": 182291,
+        "logicalFilename": "Animated Fish for CP-A",
+        "updatePolicy": "prefer",
+        "tag": "MCdGQZh6ciW"
+      },
+      "author": "Gervig91",
+      "details": {
+        "category": "Fishing",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Animated Fish SVE",
+      "version": "1.7.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 6089,
+        "fileId": 63443,
+        "md5": "dd148700d678ccf409bd6f7fbdd48603",
+        "fileSize": 42046,
+        "logicalFilename": "Animated Fish SVE",
+        "updatePolicy": "prefer",
+        "tag": "Q7wSevfbtGX"
+      },
+      "author": "Gervig91",
+      "details": {
+        "category": "Fishing",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Animated Food and Drinks",
+      "version": "3.4.1",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 5607,
+        "fileId": 30871,
+        "md5": "5bf7251751ec2f51d2af4b58cab67f34",
+        "fileSize": 160304,
+        "logicalFilename": "Animated Food and Drinks",
+        "updatePolicy": "prefer",
+        "tag": "Cg0de09MXVc"
+      },
+      "author": "Gervig91",
+      "details": {
+        "category": "Items",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Animated Furniture and Stuff",
+      "version": "1.1.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 5662,
+        "fileId": 28157,
+        "md5": "59964b2e9dad4e701d5c20b440dd430e",
+        "fileSize": 335281,
+        "logicalFilename": "Animated Furniture and Stuff",
+        "updatePolicy": "prefer",
+        "tag": "6qIuBNqMN05"
+      },
+      "author": "Gervig91",
+      "details": {
+        "category": "Furniture",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Animated Gemstones 1.1.6",
+      "version": "1.1.7",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 4986,
+        "fileId": 48803,
+        "md5": "3bc168bfac9367a5fb1c53e3b20475f0",
+        "fileSize": 88020,
+        "logicalFilename": "Animated Gemstones 1.1.7",
+        "updatePolicy": "prefer",
+        "tag": "1Kp8NCLPQPO"
+      },
+      "author": "Undare",
+      "details": {
+        "category": "Items",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Animated Lunna Astray Fish",
+      "version": "1.0.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 6974,
+        "fileId": 31672,
+        "md5": "c73a722e92b8cd158314663258830911",
+        "fileSize": 19263,
+        "logicalFilename": "Animated Lunna Astray Fish",
+        "updatePolicy": "prefer",
+        "tag": "j4Q0niJPU4V"
+      },
+      "author": "Gervig91",
+      "details": {
+        "category": "Fishing",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Animated Ridgeside Village Fish",
+      "version": "1.2.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 7353,
+        "fileId": 53864,
+        "md5": "d67f2c954556455c6871fe248333fa1b",
+        "fileSize": 69662,
+        "logicalFilename": "Animated Ridgeside Village Fish",
+        "updatePolicy": "prefer",
+        "tag": "sb2GOeW_H_U"
+      },
+      "author": "Gervig91",
+      "details": {
+        "category": "Fishing",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Animated Slime Eggs and Loot",
+      "version": "2.1.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 5642,
+        "fileId": 35613,
+        "md5": "f39ea2c9c27271ad3522e2bf47418227",
+        "fileSize": 71718,
+        "logicalFilename": "Animated Slime Eggs and Loot",
+        "updatePolicy": "prefer",
+        "tag": "7aw4RgSLyI-"
+      },
+      "author": "Gervig91",
+      "details": {
+        "category": "Items",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Beatrice NPC",
+      "version": "1.0.2",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 7042,
+        "fileId": 32245,
+        "md5": "c618a587aa60a577649c17fbc9c66825",
+        "fileSize": 223662,
+        "logicalFilename": "Beatrice NPC",
+        "updatePolicy": "prefer",
+        "tag": "nxNEncDQASP"
+      },
+      "author": "attonbomb",
+      "details": {
+        "category": "New Characters",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Berry Calendar",
+      "version": "1.1.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 10477,
+        "fileId": 52886,
+        "md5": "5b3fb7951d6fc82c067b89a317c94d97",
+        "fileSize": 3233,
+        "logicalFilename": "Add Berry seasons to calendar",
+        "updatePolicy": "prefer",
+        "tag": "a6h9AS1SIvm"
+      },
+      "author": "Inmognito",
+      "details": {
+        "category": "Visuals and Graphics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Better Artisan Good Icons",
+      "version": "1.5.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 2080,
+        "fileId": 14926,
+        "md5": "d812980e8addd855e2087af1d83d2d93",
+        "fileSize": 88524,
+        "logicalFilename": "Better Artisan Good Icons",
+        "updatePolicy": "prefer",
+        "tag": "02naoqqMWwS"
+      },
+      "author": "Cat",
+      "details": {
+        "category": "User Interface",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Better Artisan Good Icons Fix",
+      "version": "1.2",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 9366,
+        "fileId": 44365,
+        "md5": "fba5d2dc4d3e183ce581af93c7c28807",
+        "fileSize": 3148,
+        "logicalFilename": "Better Artisan Good Icons Fix",
+        "updatePolicy": "prefer",
+        "tag": "TbwYA-Z3KGZ"
+      },
+      "author": "MidnightChord",
+      "details": {
+        "category": "User Interface",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Colored Seeds",
+      "version": "1.5",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 3774,
+        "fileId": 33777,
+        "md5": "18037919c0edf78281829f9468dbfc1d",
+        "fileSize": 67328,
+        "logicalFilename": "Colored Seeds",
+        "updatePolicy": "prefer",
+        "tag": "gB-GNbI_TUe"
+      },
+      "author": "Laulajatar",
+      "details": {
+        "category": "User Interface",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "ConvenientInventory-1.1.0",
+      "version": "1.3.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 10384,
+        "fileId": 60432,
+        "md5": "9592b2a57645d80189eef331d8df3114",
+        "fileSize": 70130,
+        "logicalFilename": "ConvenientInventory-1.3.0",
+        "updatePolicy": "prefer",
+        "tag": "2EGnHL6Fpol"
+      },
+      "author": "gaussfire",
+      "details": {
+        "category": "Gameplay Mechanics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Coop Animal Replacements",
+      "version": "1.1.5",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 3168,
+        "fileId": 37746,
+        "md5": "080dfc578579c7b397837f6444d9a24e",
+        "fileSize": 907351,
+        "logicalFilename": "Coop Animal Replacements",
+        "updatePolicy": "prefer",
+        "tag": "J_WrK6ts7IR"
+      },
+      "author": "Elle",
+      "details": {
+        "category": "Livestock and Animals",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "CP - Community Center Icons",
+      "version": "1.2",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 7641,
+        "fileId": 38383,
+        "md5": "46344bb1f22987878a0b428d18e7f147",
+        "fileSize": 34544,
+        "logicalFilename": "CP - Community Center Icons",
+        "updatePolicy": "prefer",
+        "tag": "_iXbCoTrMUH"
+      },
+      "author": "IllogicalMoodSwing",
+      "details": {
+        "category": "Visuals and Graphics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "CP - Marnie Deserves Better",
+      "version": "1.0.1",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 7686,
+        "fileId": 41271,
+        "md5": "7eff7b1009dd14591fcfe54339fc9baf",
+        "fileSize": 6883,
+        "logicalFilename": "CP - Marnie Deserves Better",
+        "updatePolicy": "prefer",
+        "tag": "LWXQyIsVOVa"
+      },
+      "author": "IllogicalMoodSwing",
+      "details": {
+        "category": "Events",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "CP - Profession Icons",
+      "version": "2",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 4163,
+        "fileId": 35649,
+        "md5": "ddcc3d18c53bab375adfb7f9b07e1f58",
+        "fileSize": 18417,
+        "logicalFilename": "CP - Profession Icons",
+        "updatePolicy": "prefer",
+        "tag": "idQOkHi7udC"
+      },
+      "author": "IllogicalMoodSwing",
+      "details": {
+        "category": "User Interface",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Don't Enable Pam v1.1.0",
+      "version": "1.1.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 6721,
+        "fileId": 30751,
+        "md5": "61668576b5d98287553f10c50b017f8e",
+        "fileSize": 5567,
+        "logicalFilename": "Don't Enable Pam v1.1.0",
+        "updatePolicy": "prefer",
+        "tag": "KZEYlXqEFCE"
+      },
+      "author": "Jonqora",
+      "details": {
+        "category": "Characters",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Elle's New Barn Animals - Barn Replacements",
+      "version": "1.1.3",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 3167,
+        "fileId": 34408,
+        "md5": "b8782d064ce1f0d321323fd38cd2e983",
+        "fileSize": 1425932,
+        "logicalFilename": "Barn Replacements",
+        "updatePolicy": "prefer",
+        "tag": "YYWcIudgBRN"
+      },
+      "author": "Elle",
+      "details": {
+        "category": "Livestock and Animals",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Event Lookup 0.2.7",
+      "version": "0.2.7",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 8505,
+        "fileId": 47658,
+        "md5": "21979df85aaf022c7afab66ffc6d625a",
+        "fileSize": 84021,
+        "logicalFilename": "Event Lookup 0.2.7",
+        "updatePolicy": "prefer",
+        "tag": "tn1WiO3UjZn"
+      },
+      "author": "shekurika",
+      "details": {
+        "category": "User Interface",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Grandpa's Tools",
+      "version": "1.2.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 8835,
+        "fileId": 41963,
+        "md5": "56dc4b2f803e53ce967f038b9f09676c",
+        "fileSize": 89286,
+        "logicalFilename": "Grandpa's Tools",
+        "updatePolicy": "prefer",
+        "tag": "WbVt3EAHx1p"
+      },
+      "author": "Gwen and Stashek",
+      "details": {
+        "category": "Visuals and Graphics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Improved Clint 1.1.10",
+      "version": "1.1.10",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 10048,
+        "fileId": 49881,
+        "md5": "c117b4f2bebfc21b4e9f8f66388ace86",
+        "fileSize": 56429,
+        "logicalFilename": "Improved Clint 1.1.10",
+        "updatePolicy": "prefer",
+        "tag": "Wr_dkd64Nb_"
+      },
+      "author": "SoftPandaBoi",
+      "details": {
+        "category": "Characters",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Seasonal Aideen Portraits",
+      "version": "1.2.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 10731,
+        "fileId": 49760,
+        "md5": "22308ab899ac0a65263583ce1291edd3",
+        "fileSize": 66260,
+        "logicalFilename": "Aideen Seasonal Outfits",
+        "updatePolicy": "prefer",
+        "tag": "xlWaiCspfCi"
+      },
+      "author": "Thyrenoth",
+      "details": {
+        "category": "Portraits",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Seasonal Buildings",
+      "version": "1.3.4",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 1993,
+        "fileId": 46800,
+        "md5": "13ddbc75e033ae4f93aa3f2e17c7b2ee",
+        "fileSize": 51356330,
+        "logicalFilename": "Seasonal Buildings",
+        "updatePolicy": "prefer",
+        "tag": "YAS4hhflROZ"
+      },
+      "author": "Elle",
+      "details": {
+        "category": "Buildings",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Seasonal Cute Characters",
+      "version": "4.0.3",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 5450,
+        "fileId": 61330,
+        "md5": "d836b5d1fca868a69a1d6c072b6428ce",
+        "fileSize": 27448135,
+        "logicalFilename": "Seasonal Cute Characters",
+        "updatePolicy": "prefer",
+        "tag": "T2zqqb4w9ls"
+      },
+      "author": "Poltergeister and various artists",
+      "details": {
+        "category": "Characters",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Sherry's lighter emotes",
+      "version": "1.1.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 9327,
+        "fileId": 44223,
+        "md5": "d77a80d794df791ad0b6a43be2aeb7d9",
+        "fileSize": 36998,
+        "logicalFilename": "Sherry's lighter emotes",
+        "updatePolicy": "prefer",
+        "tag": "mfLSot3aK6q"
+      },
+      "author": "Sherry",
+      "details": {
+        "category": "User Interface",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Show Birthdays 1.3.0",
+      "version": "1.3.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 7495,
+        "fileId": 54222,
+        "md5": "5b9da2b249b19ec9dc46b182983ce33a",
+        "fileSize": 19774,
+        "logicalFilename": "Show Birthdays 1.3.0",
+        "updatePolicy": "prefer",
+        "tag": "1X7zJkH6BeR"
+      },
+      "author": "Traktori",
+      "details": {
+        "category": "User Interface",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Sit for Stamina 1.0.1",
+      "version": "1.0.1",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 7334,
+        "fileId": 33799,
+        "md5": "6378644c2a97cfd610ad13d5b84d1653",
+        "fileSize": 4701,
+        "logicalFilename": "Sit for Stamina 1.0.1",
+        "updatePolicy": "prefer",
+        "tag": "wamYc4J9ptW"
+      },
+      "author": "Entoarox",
+      "details": {
+        "category": "Gameplay Mechanics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Spouses React to Player 'Death'",
+      "version": "1.1.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 7493,
+        "fileId": 36534,
+        "md5": "1d07c87d3cb35280ba36a6517a0f972b",
+        "fileSize": 35290,
+        "logicalFilename": "Spouses React to Player 'Death'",
+        "updatePolicy": "prefer",
+        "tag": "PYEaEo9HDMy"
+      },
+      "author": "CasualInvidia",
+      "details": {
+        "category": "Events",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Tidy Crafting Menu With Optional Balancing. ALL Languages now. - Tidy Crafting Menu",
+      "version": "2.1",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 7177,
+        "fileId": 42055,
+        "md5": "7c66e49402bd71e59d50978c56f62431",
+        "fileSize": 198035,
+        "logicalFilename": "Tidy Crafting Menu",
+        "updatePolicy": "prefer",
+        "tag": "O8TaDacXRk7"
+      },
+      "author": "Boogie",
+      "details": {
+        "category": "Crafting",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Tidy Pam 2.0",
+      "version": "2.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 2306,
+        "fileId": 16246,
+        "md5": "104fe6c3f98ef305d32c83010a8f70a3",
+        "fileSize": 1069116,
+        "logicalFilename": "Tidy Pam 2.0",
+        "updatePolicy": "prefer",
+        "tag": "cSf-_Gc_0TF"
+      },
+      "author": "Fippsie",
+      "details": {
+        "category": "Buildings",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Town Animals",
+      "version": "1.4.2",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 1965,
+        "fileId": 63526,
+        "md5": "21680ae38685b629c68ee602d205d91f",
+        "fileSize": 1411214,
+        "logicalFilename": "Town Animals",
+        "updatePolicy": "prefer",
+        "tag": "Ec-sMfB8fAy"
+      },
+      "author": "Elle",
+      "details": {
+        "category": "Miscellaneous",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "UI Info Suite 2",
+      "version": "",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "direct",
+        "url": "https://github.com/Annosz/UIInfoSuite2/releases/download/2.2.9/UIInfoSuite2.zip",
+        "md5": "26c0f17a5b6c40c5f37708f69e3d3150",
+        "fileSize": 558286,
+        "updatePolicy": "exact",
+        "tag": "4iq_Ek4yGZC"
+      },
+      "details": {
+        "category": "",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Spouse Rooms Redesigned version 07",
+      "version": "07",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 828,
+        "fileId": 10009,
+        "md5": "4bddb298bf08fcde86ee725553242fab",
+        "fileSize": 3995,
+        "logicalFilename": "Spouse Rooms Redesigned version 07",
+        "updatePolicy": "exact",
+        "tag": "AaZpKWHUlN5"
+      },
+      "author": "endermaryn",
+      "details": {
+        "category": "Locations",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "The Music of Ridgeside Village",
+      "version": "2.4",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 7286,
+        "fileId": 69270,
+        "md5": "0f26d7250ab8ec0e364a30c75ae21d55",
+        "fileSize": 360463934,
+        "logicalFilename": "The Music of Ridgeside Village",
+        "updatePolicy": "prefer",
+        "tag": "IijgLAym3TY"
+      },
+      "author": "Rafseazz and mamaesh - Assisted by RSV Council",
+      "details": {
+        "category": "Expansions",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Leilani",
+      "version": "1.3.4",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 9375,
+        "fileId": 69984,
+        "md5": "c722044c18eb959a07a1d1474df6fffe",
+        "fileSize": 148254,
+        "logicalFilename": "Leilani (NPC for Ridgeside Village)",
+        "updatePolicy": "prefer",
+        "tag": "7y-Mvh0gOFD"
+      },
+      "author": "Zoedoll",
+      "details": {
+        "category": "New Characters",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Mini Bars 1.0.2",
+      "version": "1.0.4",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 8329,
+        "fileId": 72041,
+        "md5": "68df9a2e2c80d0a391413f4403d14201",
+        "fileSize": 101985,
+        "logicalFilename": "Mini Bars 1.0.4",
+        "updatePolicy": "prefer",
+        "tag": "wkZPDLEExjr"
+      },
+      "author": "Ophaneom",
+      "details": {
+        "category": "User Interface",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Automate",
+      "version": "1.28.4",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 1063,
+        "fileId": 72682,
+        "md5": "d4c6628cacb31d5c76bf46c3700754b6",
+        "fileSize": 171367,
+        "logicalFilename": "Automate 1.28.4",
+        "updatePolicy": "prefer",
+        "tag": "VDSsNzcDEMq"
+      },
+      "author": "Pathoschild",
+      "details": {
+        "category": "Gameplay Mechanics",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "Lookup Anything",
+      "version": "1.40.0",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 541,
+        "fileId": 72691,
+        "md5": "e31187409db5803fb5a794f54cdd85b3",
+        "fileSize": 463530,
+        "logicalFilename": "Lookup Anything 1.40.0",
+        "updatePolicy": "prefer",
+        "tag": "0xnsCIFfUbx"
+      },
+      "author": "Pathoschild",
+      "details": {
+        "category": "User Interface",
+        "type": ""
+      },
+      "phase": 0
+    },
+    {
+      "name": "[MP] Integrated Minecarts",
+      "version": "2.3.2",
+      "optional": true,
+      "domainName": "stardewvalley",
+      "source": {
+        "type": "nexus",
+        "modId": 11881,
+        "fileId": 71815,
+        "md5": "05b47d81368fa94be6e3e7c4bfe3c3c2",
+        "fileSize": 92627,
+        "logicalFilename": "Integrated Minecarts",
+        "updatePolicy": "prefer",
+        "tag": "vzTIegnq9HA"
+      },
+      "author": "Jibblestein",
+      "details": {
+        "category": "Miscellaneous",
+        "type": ""
+      },
+      "phase": 0
+    }
+  ],
+  "modRules": [
+    {
+      "type": "before",
+      "reference": {
+        "fileExpression": "Vintage UI V2 - GenericModConfigMenu-12365-1-0-1654448480",
+        "fileMD5": "2f276097f77930b1b5c727e21dc9e77b",
+        "versionMatch": "1.0.0",
+        "logicalFileName": "Vintage UI V2 - GenericModConfigMenu"
+      },
+      "source": {
+        "fileExpression": "Generic Mod Config Menu 1.11.2-5098-1-11-2-1689343508",
+        "fileMD5": "d111f8e9430848cb41f63882b516ddb8",
+        "versionMatch": "*",
+        "logicalFileName": "Generic Mod Config Menu 1.11.2"
+      }
+    }
+  ],
+  "tools": []
+}
