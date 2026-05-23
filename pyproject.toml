@@ -1,0 +1,9 @@
+[project]
+name = "nexus-mocodo"
+version = "0.2.0"
+description = "Nexus Mod Collection Downloader"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31",
+    "beautifulsoup4>=4.12",
+]

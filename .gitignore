@@ -1,5 +1,8 @@
 .DS_Store
 downloaded*
+cookies.py
+mods.txt
+unzipped_mods/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

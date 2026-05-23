@@ -3,6 +3,7 @@ import requests
 import json
 import concurrent.futures
 import config
+from cookies import cookies
 
 output_dir = config.download_path
 if not os.path.isdir(output_dir):
@@ -23,14 +24,7 @@ def download_from_url(url, save_path):
         f.write(r.content)
 
 def get_dl_url(mod_id, file_id):
-    cookies = {
-        # You need to acquire your browser cookies once for each collection.
-        # 1. Open Chrome inspector or equivalent, and open the Network tab.
-        # 2. Attempt to manually download any mod e.g. https://www.nexusmods.com/stardewvalley/mods/5371?tab=files&file_id=56774
-        # 3. Search for "Downloads?" for API request to "Downloads?GenerateDownloadUrl"
-        # 4. Copy cURL command, and convert to Python code at https://curlconverter.com/
-        # Finally, paste the cookies here and optionally the headers below as well
-    }
+    # cookies are imported from cookies.py (gitignored). See cookies.example.py.
     headers = {
         'authority': r'www.nexusmods.com',
         'accept': r'*/*',
